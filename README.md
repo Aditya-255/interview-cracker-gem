@@ -38,7 +38,7 @@ A custom Google Gemini Gem that simulates mock interviews, provides instant feed
 
 1. Open **Google Gemini**.  
 2. Create a new **Gem**.  
-3. Copy the full prompt from [`prompts/all_prompts.txt`](prompts/all_prompts.txt).  
+3. Copy the full prompt from [`How to create own gems in steps wise.pdf`](How to create own gems in steps wise.pdf).  
 4. Start practicing 🚀  
 
 👉 The assistant will first introduce itself as your **Interview Cracker AI Assistant** and ask:  
